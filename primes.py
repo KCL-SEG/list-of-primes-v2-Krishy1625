@@ -28,3 +28,4 @@ def prime_or_not(number):
             return False
     else:
         return True
+#Finished
